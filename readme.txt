@@ -7,3 +7,6 @@ run python model_train.py
 
 record.txt   recording the expermental results in Apache with 5n size of sample
 results.doc   the expermental results in all datasets
+
+Prerequisites  Python 3.6.x
+               pytorch 0.3.0
